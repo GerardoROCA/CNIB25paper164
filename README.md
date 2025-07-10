@@ -1,5 +1,4 @@
 # CNIB25paper164
-# Proyecto de Análisis de Cavidades y Ramachandran
 
 Este repositorio contiene scripts comentados para:
 
