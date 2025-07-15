@@ -1,6 +1,8 @@
 # Computational Modeling Pipeline for the Na⁺/Cl⁻ Cotransporter (NCC)
 
 ## Abstract
+> **AI-generated content**  
+> This text was created with the assistance of AI tools. Verify before use.
 
 Computational protein modeling is a cornerstone of modern biomedical engineering, providing atomic-level structural insights that can accelerate drug discovery. We present a project-based pipeline that guides researchers through:
 
